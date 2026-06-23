@@ -1,0 +1,6 @@
+{
+  "name": "Social Video Downloader",
+  "description": "A powerful download companion with low-latency AI assistance and in-app web video sniffing to easily save and view social media videos offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
